@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Intentions",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-04T09:23:30.623986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best of Intentions",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/01_Best_of_Intentions_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Of Intentions (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_Best_Of_Intentions_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Intentions",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/03_Good_Intentions_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To Hell With Good Intentions",
+      "artist": "Mclusky",
+      "has_synced": true,
+      "path": "select/04_To_Hell_With_Good_Intentions_Mclusky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Intentions (Intro)",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/05_Good_Intentions_(Intro)_Nav.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Intentions",
+      "artist": "Hudson Mohawke",
+      "has_synced": true,
+      "path": "select/06_Intentions_Hudson_Mohawke.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Intentions Paving Co.",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/07_Good_Intentions_Paving_Co._Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Intentions",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/08_Intentions_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Intentions",
+      "artist": "Transviolet",
+      "has_synced": true,
+      "path": "select/09_Bad_Intentions_Transviolet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Intentions (feat. BullySongs)",
+      "artist": "The Chainsmokers feat. BullySongs",
+      "has_synced": true,
+      "path": "select/10_Good_Intentions_(feat._BullySongs)_The_Chainsmokers_feat._BullySongs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Intentions",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/11_Good_Intentions_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Intentions",
+      "artist": "Mr Little Jeans",
+      "has_synced": true,
+      "path": "select/12_Intentions_Mr_Little_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Best of Intentions",
+      "artist": "MUTEMATH",
+      "has_synced": false,
+      "path": "select/13_Best_of_Intentions_MUTEMATH.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Intentions",
+      "artist": "Disclosure feat. Miguel",
+      "has_synced": true,
+      "path": "select/14_Good_Intentions_Disclosure_feat._Miguel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Deadly Intentions",
+      "artist": "Obituary",
+      "has_synced": true,
+      "path": "select/15_Deadly_Intentions_Obituary.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Disguised Intentions",
+      "artist": "Pritam",
+      "has_synced": false,
+      "path": "select/16_Disguised_Intentions_Pritam.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Intentions Paving Company",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/17_Good_Intentions_Paving_Company_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Intentions (feat. Quavo)",
+      "artist": "Justin Bieber feat. Quavo",
+      "has_synced": true,
+      "path": "select/18_Intentions_(feat._Quavo)_Justin_Bieber_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Intentions (feat. Quavo)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/19_Intentions_(feat._Quavo)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Intentions",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Intentions_Justin_Bieber.txt"
+    }
+  ]
+}
